@@ -22,3 +22,8 @@ Training expects a CUDA GPU; deployment can run on a different machine.
 **Safety:** Robots can move unexpectedly. Secure the arm, clear its workspace,
 keep people and loose objects away, and have a person ready to cut motor power.
 Only operate under supervision and within the robot's mechanical limits.
+
+## License
+
+This workshop is licensed under the [MIT License](LICENSE). Third-party
+dependencies and model weights are subject to their own licenses.
